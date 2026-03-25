@@ -1,7 +1,7 @@
 body {
   margin: 0;
-  font-family: 'Poppins', sans-serif;
-  background: linear-gradient(135deg, #1e3a8a, #9333ea, #ec4899);
+  font-family: 'Poppins', cambria;
+  background: linear-gradient(135deg, #000000, #9333ea, #ec4899);
   color: white;
 }
 
